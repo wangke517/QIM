@@ -1,2 +1,2 @@
 # QIM
-python mian.py
+python main.py
