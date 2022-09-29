@@ -1,1 +1,2 @@
 # QIM
+python main.py
